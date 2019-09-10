@@ -1,4 +1,4 @@
-# Film-Similarity-NLP-with-KMeans-Hierarchical-Clustering
+# Modeling Film Similarity with NLP and Clustering Algorithms
 
 ![Films](https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/4741addc-1756-41f1-b2ff-c3ea98d77647.jpg)
 
