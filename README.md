@@ -2,7 +2,7 @@
 
 ![Films](https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/4741addc-1756-41f1-b2ff-c3ea98d77647.jpg)
 
-This project entails using Natural Language Processing (NLP) techniques (ie: regular expressions, tokenization, stemming, vectorization for TF-IDF) and clustering algorithms (KMeans and Hierarchical clustering) to model the "similarities" between films based on their plots provided by IMDb and Wikipedia. The dataset contains the titles of the top 100 movies on IMDb. Steps taken include the following:
+This project entails using Natural Language Processing (NLP) techniques (ie: regular expressions, tokenization, stemming, vectorization for TF-IDF) and clustering algorithms (KMeans and Hierarchical clustering) in Python to model the "similarities" between films based on their plots provided by IMDb and Wikipedia. The dataset contains the titles of the top 100 movies on IMDb. Steps taken include the following:
 
 ## 1. Combining Plot Data
 Merging the Wikipedia and IMDb plots
